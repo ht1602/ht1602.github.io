@@ -6,20 +6,7 @@
     <description>Recent content in Posts on Htian1602</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 23:58:20 +0800</lastBuildDate><atom:link href="https://juicebar-demo.add1.dev/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bandit Algorithm Chapter3</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter3/</link>
-      <pubDate>Mon, 29 Apr 2024 23:58:20 +0800</pubDate>
-      
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter3/</guid>
-      <description>Chapter 3 Stochastic Process and Markov Chains Stochastic Process A stochastic process on probability space $(\Omega,\cal{F},\Bbb{P} )$ is a collection of random variables ${X_t:t\in\cal{T}}$.
-$\cal{T}$ is always countable, $\cal{T}=\Bbb{N}$.
-随机过程就是随即从probability space中取输入$X_t$。
-💡 Theorem For each $n\in \Bbb{N^+}$, let $(\Omega_n.\cal{F_n})$ be a Borel space and $\mu_n$ be a measure on $(\Omega_1\times&amp;hellip;\times\Omega_n,\cal{F_1}\otimes&amp;hellip;\otimes F_{n})$ and assume that $\mu_n$ and $\mu_{n+1}$ are related through $\mu_{n+1}(A\times\Omega_{n+1})=\mu_n(A)\ \ for all A\in \Omega_1\otimes&amp;hellip;\otimes \Omega_n$**
-Then there exists a probability space $(\Omega,\cal{F},\Bbb{P})$ and random elements $X_1,X_2,&amp;hellip;$ with $X_t:\Omega\rightarrow\Omega_t$ such that $\Bbb{P}_{X_1,&amp;hellip;,X_n}=\mu_n$ for all n.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Feb 2023 18:58:11 +0800</lastBuildDate><atom:link href="https://juicebar-demo.add1.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://juicebar-demo.add1.dev/post/markdown_syntax_guide/</link>
@@ -29,6 +16,19 @@ Then there exists a probability space $(\Omega,\cal{F},\Bbb{P})$ and random elem
       <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</description>
+    </item>
+    
+    <item>
+      <title>Bandit Algorithm Chapter3</title>
+      <link>https://juicebar-demo.add1.dev/post/bandit_chapter3/</link>
+      <pubDate>Tue, 10 Jan 2023 23:58:20 +0800</pubDate>
+      
+      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter3/</guid>
+      <description>Chapter 3 Stochastic Process and Markov Chains Stochastic Process A stochastic process on probability space $(\Omega,\cal{F},\Bbb{P} )$ is a collection of random variables ${X_t:t\in\cal{T}}$.
+$\cal{T}$ is always countable, $\cal{T}=\Bbb{N}$.
+随机过程就是随即从probability space中取输入$X_t$。
+💡 Theorem For each $n\in \Bbb{N^+}$, let $(\Omega_n.\cal{F_n})$ be a Borel space and $\mu_n$ be a measure on $(\Omega_1\times&amp;hellip;\times\Omega_n,\cal{F_1}\otimes&amp;hellip;\otimes F_{n})$ and assume that $\mu_n$ and $\mu_{n+1}$ are related through $\mu_{n+1}(A\times\Omega_{n+1})=\mu_n(A)\ \ for all A\in \Omega_1\otimes&amp;hellip;\otimes \Omega_n$**
+Then there exists a probability space $(\Omega,\cal{F},\Bbb{P})$ and random elements $X_1,X_2,&amp;hellip;$ with $X_t:\Omega\rightarrow\Omega_t$ such that $\Bbb{P}_{X_1,&amp;hellip;,X_n}=\mu_n$ for all n.</description>
     </item>
     
     <item>
