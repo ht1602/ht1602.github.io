@@ -33,10 +33,10 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</de
     
     <item>
       <title>Bandit Algorithm Chapter 2</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter_2.mmark/</link>
+      <link>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</link>
       <pubDate>Mon, 02 Jan 2023 17:16:26 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter_2.mmark/</guid>
+      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</guid>
       <description>Chapter 2 Probability $\sigma-algebras$其实是个集合系，它保证在这里头的集合，不管如何做交差并补，随便做可列次，结果都还在这个系里面。这对运算的良定义是很关键的。
 What is $\sigma$-algebras X represent all possible choose, P(X) represents its power set.
 empty set $\varnothing \in \sigma$, if $S\in\sigma$, $S^C\in\sigma$
