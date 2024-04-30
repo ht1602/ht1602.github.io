@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Htian1602</title>
-    <link>https://juicebar-demo.add1.dev/</link>
+    <link>https://ht1602.github.io/</link>
     <description>Recent content on Htian1602</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Feb 2023 18:58:11 +0800</lastBuildDate><atom:link href="https://juicebar-demo.add1.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 18:58:11 +0800</lastBuildDate><atom:link href="https://ht1602.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://juicebar-demo.add1.dev/post/markdown_syntax_guide/</link>
+      <link>https://ht1602.github.io/post/markdown_syntax_guide/</link>
       <pubDate>Thu, 16 Feb 2023 18:58:11 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/markdown_syntax_guide/</guid>
+      <guid>https://ht1602.github.io/post/markdown_syntax_guide/</guid>
       <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</description>
@@ -20,10 +20,10 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</de
     
     <item>
       <title>Bandit Algorithm Chapter3</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter3/</link>
+      <link>https://ht1602.github.io/post/bandit_chapter3/</link>
       <pubDate>Tue, 10 Jan 2023 23:58:20 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter3/</guid>
+      <guid>https://ht1602.github.io/post/bandit_chapter3/</guid>
       <description>Chapter 3 Stochastic Process and Markov Chains Stochastic Process A stochastic process on probability space $(\Omega,\cal{F},\Bbb{P} )$ is a collection of random variables ${X_t:t\in\cal{T}}$.
 $\cal{T}$ is always countable, $\cal{T}=\Bbb{N}$.
 随机过程就是随即从probability space中取输入$X_t$。
@@ -33,10 +33,10 @@ Then there exists a probability space $(\Omega,\cal{F},\Bbb{P})$ and random elem
     
     <item>
       <title>Bandit Algorithm Chapter 2</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</link>
+      <link>https://ht1602.github.io/post/bandit_chapter_2/</link>
       <pubDate>Mon, 02 Jan 2023 17:16:26 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</guid>
+      <guid>https://ht1602.github.io/post/bandit_chapter_2/</guid>
       <description>Chapter 2 Probability $\sigma-algebras$其实是个集合系，它保证在这里头的集合，不管如何做交差并补，随便做可列次，结果都还在这个系里面。这对运算的良定义是很关键的。
 What is $\sigma$-algebras X represent all possible choose, P(X) represents its power set.
 empty set $\varnothing \in \sigma$, if $S\in\sigma$, $S^C\in\sigma$
@@ -57,10 +57,10 @@ $\sigma-algebra={\varnothing,[2],[1,3,4,5],[4,5],[2,4,5],[1,2,3,4,5],[1,2,3],[1,
     
     <item>
       <title>About me</title>
-      <link>https://juicebar-demo.add1.dev/about/</link>
+      <link>https://ht1602.github.io/about/</link>
       <pubDate>Tue, 26 Apr 2022 20:18:54 +0300</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/about/</guid>
+      <guid>https://ht1602.github.io/about/</guid>
       <description>Profile Participating in laboratory C++ software program for 2 years. Skilled in designing preference learning, dueling bandits and multi-objective optimization algorithms. Adept at reading paper and duplicate experiments in the paper. Willing to accept challenging tasks, especially interdisciplinary investigation. Education 09/2018-06/2022 Southwest Jiaotong University, BEng Electronic and Information Engineering, Chengdu, China.
 09/2021-01/2022 (Exchange) Hong Kong Polytechnic University, Electronic and Information Engineering, Hong Kong, China.
 09/2022-present University of Electronic Science and Technology of China, MSc Computer Science, Chengdu, China.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bandit on Htian1602</title>
-    <link>https://juicebar-demo.add1.dev/categories/bandit/</link>
+    <link>https://ht1602.github.io/categories/bandit/</link>
     <description>Recent content in Bandit on Htian1602</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 23:58:20 +0800</lastBuildDate><atom:link href="https://juicebar-demo.add1.dev/categories/bandit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 23:58:20 +0800</lastBuildDate><atom:link href="https://ht1602.github.io/categories/bandit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bandit Algorithm Chapter3</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter3/</link>
+      <link>https://ht1602.github.io/post/bandit_chapter3/</link>
       <pubDate>Tue, 10 Jan 2023 23:58:20 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter3/</guid>
+      <guid>https://ht1602.github.io/post/bandit_chapter3/</guid>
       <description>Chapter 3 Stochastic Process and Markov Chains Stochastic Process A stochastic process on probability space $(\Omega,\cal{F},\Bbb{P} )$ is a collection of random variables ${X_t:t\in\cal{T}}$.
 $\cal{T}$ is always countable, $\cal{T}=\Bbb{N}$.
 随机过程就是随即从probability space中取输入$X_t$。
@@ -22,10 +22,10 @@ Then there exists a probability space $(\Omega,\cal{F},\Bbb{P})$ and random elem
     
     <item>
       <title>Bandit Algorithm Chapter 2</title>
-      <link>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</link>
+      <link>https://ht1602.github.io/post/bandit_chapter_2/</link>
       <pubDate>Mon, 02 Jan 2023 17:16:26 +0800</pubDate>
       
-      <guid>https://juicebar-demo.add1.dev/post/bandit_chapter_2/</guid>
+      <guid>https://ht1602.github.io/post/bandit_chapter_2/</guid>
       <description>Chapter 2 Probability $\sigma-algebras$其实是个集合系，它保证在这里头的集合，不管如何做交差并补，随便做可列次，结果都还在这个系里面。这对运算的良定义是很关键的。
 What is $\sigma$-algebras X represent all possible choose, P(X) represents its power set.
 empty set $\varnothing \in \sigma$, if $S\in\sigma$, $S^C\in\sigma$
